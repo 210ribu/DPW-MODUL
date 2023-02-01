@@ -1,0 +1,40 @@
+img.kanan {
+    float: right;
+    margin: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 153px;height:auto;
+}
+img.tk {
+    float: right;
+    margin: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 200px;height: auto;
+}
+img.sd {
+    float: right;
+    margin: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 250px;height: auto;
+}
+img.smp {
+    float: right;
+    margin: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 294;height: auto;
+}
+img.sma {
+    float: right;
+    margin: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 300px;height: auto;
+}

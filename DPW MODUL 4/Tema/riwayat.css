@@ -1,0 +1,78 @@
+.background{
+    background-image: url(../sumberdaya/utm.png);
+    background-repeat: no-repeat;
+    width: 90vw;
+    height: 120vh;
+    position: absolute;
+    opacity: .15;
+    z-index: -99;
+    left: 25vw;
+    top: 30px
+}
+
+.apaya {
+    text-align: center;
+    line-height: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dadir {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jett {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.yoru {
+    margin-left: 700px;
+    margin-top: -140px;
+}
+.viper {
+    margin-left: 0px;
+    margin-top: 100px;
+    text-decoration-line: underline;
+}
+.phx {
+    margin-left: 700px;
+    margin-top: -120px;
+    width: 300px;
+    height: auto;
+}
+.fade {
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 400px;
+    height: auto;
+    background-color: #00FFFF;
+}
+.reyna {
+    margin-left: 700px;
+    margin-top: -130px;
+    width: 300px;
+    height: auto;
+}
+
+img.kanan {
+    float: right;
+    margin: auto;
+    width: 170px;height:auto;
+}
+
+
+.menu{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    background: #DCDCDC;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+ 
+}
+.menu a:hover, .btn a:hover{
+    background-color:#FFF8DC;
+    transition: 2s all;
+   
+}

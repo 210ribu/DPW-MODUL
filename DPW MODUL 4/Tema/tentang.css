@@ -1,0 +1,29 @@
+body{
+     background: #87CEFA; 
+}
+.title{
+     width: 100%; 
+     text-align: center;
+     color:    #000080;    
+}
+.menu{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    background:#D3D3D3;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+ 
+}
+.menu a:hover, .btn a:hover{
+    background-color:#FFF8DC;
+    transition: 4s all;
+   
+}
+table.tentang {
+    margin-left: 60px;
+}
