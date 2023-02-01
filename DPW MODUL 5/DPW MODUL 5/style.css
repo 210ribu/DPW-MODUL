@@ -1,0 +1,19 @@
+body {
+  font-family: Times New roman, Helvetica, sans-serif, t;
+}
+
+tr td:first-child {
+  vertical-align: top;
+  text-align: right;
+  padding-right: 5px;
+}
+.anjay{
+  text-align: right
+}
+
+
+span {
+  margin-left: 5px;
+  color: red;
+  visibility: hidden;
+}
