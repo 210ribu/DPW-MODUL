@@ -1,0 +1,80 @@
+body{
+     background: #87CEFA; 
+}
+.title{
+     width: 100%; 
+     text-align: center;
+     color:    #000080;    
+}
+.menu{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    background:#D3D3D3;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    margin: 0px;
+    padding: 10px;
+ 
+}
+.menu a:hover, .btn a:hover{
+    background-color:#FFF8DC;
+    transition: 4s all;
+}
+.love img {
+     width: 100px;
+    height: 200px;
+    margin: 5px;
+    height: 150px;
+    text-align: left;
+   
+}
+.love p {
+    font-family: arial;
+    color: maroon;
+}
+.anjay img{
+    width: 500px;
+    height: 200px;
+    margin: 5px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+   
+}
+.anjay p {
+    font-family: tahoma;
+    color: green;
+   text-align: center;
+
+}
+.apaya img {
+    width:500px;
+    height: 200px;
+    margin: 5px;
+    height: 150px;
+    float: right;
+    margin: 5px;
+}
+.apaya p{
+    font-family: times new roman;
+    color: blueviolet;
+    text-align: right;
+ 
+}
+.anjir img {
+    width: 500px;
+    height: 200px;
+    margin: 5px;
+    height: 150px;
+    text-align: left;
+}
+.anjir p{
+    font-family: times new roman;
+    color: orange;
+   
+}
